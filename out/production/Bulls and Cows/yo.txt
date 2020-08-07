@@ -1,0 +1,33 @@
+Bulls and Cows game Results.
+Your Code: 2345
+Computer's Code: 0549
+- - - - - - - -
+Turn1
+You Guessed 3456, scoring the result: 0bulls and 2cows
+Computer guessed 5172, scoring the result: 0bulls and 2cows
+- - - - - - -
+Turn2
+You Guessed 3456, scoring the result: 0bulls and 2cows
+Computer guessed 9317, scoring the result: 1bulls and 0cows
+- - - - - - -
+Turn3
+You Guessed 5678, scoring the result: 0bulls and 1cows
+Computer guessed 6214, scoring the result: 0bulls and 2cows
+- - - - - - -
+Turn4
+You Guessed 2345, scoring the result: 1bulls and 1cows
+Computer guessed 2487, scoring the result: 1bulls and 1cows
+- - - - - - -
+Turn5
+You Guessed 3456, scoring the result: 0bulls and 2cows
+Computer guessed 4657, scoring the result: 0bulls and 2cows
+- - - - - - -
+Turn6
+You Guessed 4567, scoring the result: 1bulls and 1cows
+Computer guessed 9425, scoring the result: 1bulls and 2cows
+- - - - - - -
+Turn7
+You Guessed 7654, scoring the result: 0bulls and 2cows
+Computer guessed 2345, scoring the result: 4bulls and 0cows
+- - - - - - -
+The Computer Won
